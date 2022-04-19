@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <%- include("./navbar") %>
+    <a href="/products/createProductForm">Tambah Produk</a>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>name</th>
+                <th>company</th>
+                <th>type</th>
+                <th>stock</th>
+                <th>price</th>
+                <th>SKU</th>
+                <th>actions</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+            <% for (let i = 0; i < data.length; i++) { %>
+                <tr>
+                    <td><%= data[i].id %></td>
+                    <td><%= data[i].name %></td>
+                    <td><%= data[i].company %></td>
+                    <td><%= data[i].type %></td>
+                    <td><%= data[i].stock %></td>
+                    <td><%= data[i].price %></td>
+                    <td><%= data[i].SKU %></td>
+                    <td>
+                        <a href="/products/<%= data[i].id %>/editForm">edit</a>
+                        <a>delete</a>
+                    </td>
+                </tr>
+            <% } %>
+        </tbody>
+    </table>
+</body>
+</html>

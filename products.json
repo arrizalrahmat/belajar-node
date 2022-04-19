@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "permen karet coklat",
+        "company": "Big babol",
+        "type": "food",
+        "stock": "10",
+        "price": "12000",
+        "SKU": "B-PKC1"
+    },
+    {
+        "id": 2,
+        "name": "curved monitor",
+        "company": "Lenovo",
+        "type": "electronic",
+        "stock": 10,
+        "price": 2000000,
+        "SKU": "L-CM2"
+    },
+    {
+        "id": 3,
+        "name": "ball point bagus",
+        "company": "Pilot",
+        "type": "stationery",
+        "stock": 10,
+        "price": 12000,
+        "SKU": "P-BPB3"
+    },
+    {
+        "id": 4,
+        "name": "ball point kurang bagus",
+        "company": "Pilot",
+        "type": "stationery",
+        "stock": 10,
+        "price": 12000,
+        "SKU": "P-BPKB4"
+    },
+    {
+        "id": 6,
+        "name": "ball point kurang bagus",
+        "company": "Pilot",
+        "type": "stationery",
+        "stock": 10,
+        "price": 12000,
+        "SKU": "P-BPKB6"
+    },
+    {
+        "id": 7,
+        "name": "ball point kurang bagus",
+        "company": "Pilot",
+        "type": "stationery",
+        "stock": 10,
+        "price": 12000,
+        "SKU": "P-BPKB7"
+    },
+    {
+        "id": 8,
+        "name": "ball point kurang bagus",
+        "company": "Pilot",
+        "type": "stationery",
+        "stock": 10,
+        "price": 12000,
+        "SKU": "P-BPKB8"
+    },
+    {
+        "id": 9,
+        "name": "makanan kucing",
+        "company": "nestle",
+        "type": "pet food",
+        "stock": 10,
+        "price": 12000,
+        "SKU": "N-MK9"
+    },
+    {
+        "id": 10,
+        "name": "makanan kucing",
+        "company": "nestle",
+        "type": "pet food",
+        "stock": 10,
+        "price": 12000,
+        "SKU": "N-MK10"
+    },
+    {
+        "id": 11,
+        "name": "Gojila",
+        "company": "bandai",
+        "type": "kaiju",
+        "stock": 10,
+        "price": 239849,
+        "SKU": "B-G11"
+    },
+    {
+        "id": 12,
+        "name": "Ayam Goreng Serundeng enak",
+        "company": "Coca-Cola",
+        "type": "kaiju",
+        "stock": 2,
+        "price": 42345,
+        "SKU": "C-AGSE12"
+    },
+    {
+        "id": 13,
+        "name": "Dragon Ball",
+        "company": "ARK Company",
+        "type": "kaiju",
+        "stock": 1,
+        "price": 34564567,
+        "SKU": "A-DB13"
+    },
+    {
+        "id": 14,
+        "name": "Cinta Tapi Bohong",
+        "company": "hacktiv8",
+        "type": "kaiju",
+        "stock": 345,
+        "price": 4565464,
+        "SKU": "H-CTB14"
+    },
+    {
+        "id": 15,
+        "name": "permen karet strawberry",
+        "company": "Big babol",
+        "type": "food",
+        "stock": 10,
+        "price": 12000,
+        "SKU": "B-PKS15"
+    }
+]

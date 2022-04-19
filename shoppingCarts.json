@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "permen karet",
+        "company": "Big babol",
+        "type": "food",
+        "stock": 10,
+        "price": 12000
+    },
+    {
+        "id": 8,
+        "name": "ball point kurang bagus",
+        "company": "Pilot",
+        "type": "stationery",
+        "stock": 10,
+        "price": 12000,
+        "SKU": "P-BPKB8"
+    }
+]
